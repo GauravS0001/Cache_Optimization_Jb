@@ -59,3 +59,8 @@ spring.cache.type: redis
 spring.redis.host: localhost  
 spring.redis.port: 6379
 ```
+
+## Author
+
+Gaurav Solanki  
+GitHub: [https://github.com/GauravS0001](https://github.com/GauravS0001)
