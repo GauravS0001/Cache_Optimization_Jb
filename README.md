@@ -49,7 +49,7 @@ This microservice demonstrates real-world caching strategies using Spring Boot a
 → Compares cold (DB) vs warm (cached) access time over `n` iterations.
 
 **Example Response:**  
-`Avg Cold: 412.45 ms | Avg Warm: 210.87 ms | Gain: 48.86%`
+`Avg Cold: 414.13 ms | Avg Warm: 90.82 ms | Gain: 78.07%`
 
 ## Configuration (Redis + H2)
 
